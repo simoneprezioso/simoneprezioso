@@ -1,7 +1,7 @@
 # Simone Prezioso
 
 - BSc Artificial Intelligence student focused on **Software Engineering** and **Machine Learning**
-- Currencyly working with Python, building small to medium-sized projects. My GitHub reflects my hands-on experimentation through notebooks and scripts of my university experience, most of 
+- Currently working with Python, building small to medium-sized projects. My GitHub reflects my hands-on experimentation through notebooks and scripts of my university experience, most of 
 my repos are infact class projects, with many more to come
 - I value clarity, reliability, and writing code that explains itself
 - My stack → ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
