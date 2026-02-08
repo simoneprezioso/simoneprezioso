@@ -3,7 +3,7 @@
 - BSc Artificial Intelligence student focused on **Software Engineering** and **Machine Learning**
 - Currently working with Python, building small to medium-sized projects. My GitHub reflects my hands-on experimentation through notebooks and scripts of my university experience, most of 
 my repos are infact class projects, with many more to come
-- I value clarity, reliability, and writing code that explains itself
+- I like clarity, reliability, and writing code that explains itself
 - My stack → ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter)
