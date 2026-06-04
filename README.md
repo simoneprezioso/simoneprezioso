@@ -12,7 +12,6 @@ my repos are infact class projects, with many more to come
 
 ## What you'll find here:
 - University and challenge-based technical work
-- **Soon → Personal Projects**
 
 
 ## Info
