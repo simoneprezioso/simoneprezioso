@@ -63,15 +63,15 @@ class SimonePrezioso:
 
 <div align="center">
 
+<a href="https://github.com/simoneprezioso/FundingCompass">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FundingCompass&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FundingCompass" />
+</a>
 <a href="https://github.com/simoneprezioso/Black-Scholes-Heatmap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=Black-Scholes-Heatmap&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Black-Scholes-Heatmap" />
 </a>
-<a href="https://github.com/simoneprezioso/PatternMind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=PatternMind&theme=tokyonight&hide_border=true&bg_color=00000000" alt="PatternMind" />
-</a>
 
-<a href="https://github.com/simoneprezioso/Talend2Mule">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=Talend2Mule&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Talend2Mule" />
+<a href="https://github.com/simoneprezioso/GitHub-Claw">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=GitHub-Claw&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub-Claw" />
 </a>
 <a href="https://github.com/simoneprezioso/FriendsSocialNetwork">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FriendsSocialNetwork&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FriendsSocialNetwork" />
