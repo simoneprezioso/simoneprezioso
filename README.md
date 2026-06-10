@@ -57,6 +57,8 @@ class SimonePrezioso:
 ## `~/recent_activity`
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/simoneprezioso/GitHub-Claw/pull/1) in [simoneprezioso/GitHub-Claw](https://github.com/simoneprezioso/GitHub-Claw)
+2. 💪 Opened PR [#1](https://github.com/simoneprezioso/GitHub-Claw/pull/1) in [simoneprezioso/GitHub-Claw](https://github.com/simoneprezioso/GitHub-Claw)
 <!--END_SECTION:activity-->
 
 ## `~/projects`
