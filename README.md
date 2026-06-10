@@ -63,19 +63,32 @@ class SimonePrezioso:
 
 <div align="center">
 
-<a href="https://github.com/simoneprezioso/FundingCompass">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FundingCompass&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FundingCompass" />
-</a>
-<a href="https://github.com/simoneprezioso/Black-Scholes-Heatmap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=Black-Scholes-Heatmap&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Black-Scholes-Heatmap" />
-</a>
-
-<a href="https://github.com/simoneprezioso/GitHub-Claw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=GitHub-Claw&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub-Claw" />
-</a>
-<a href="https://github.com/simoneprezioso/FriendsSocialNetwork">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FriendsSocialNetwork&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FriendsSocialNetwork" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/simoneprezioso/FundingCompass">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FundingCompass&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FundingCompass" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/simoneprezioso/Black-Scholes-Heatmap">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=Black-Scholes-Heatmap&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Black-Scholes-Heatmap" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/simoneprezioso/GitHub-Claw">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=GitHub-Claw&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub-Claw" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/simoneprezioso/FriendsSocialNetwork">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FriendsSocialNetwork&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FriendsSocialNetwork" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -86,7 +99,5 @@ class SimonePrezioso:
 <a href="https://www.linkedin.com/in/simoneprezioso">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=simoneprezioso&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
