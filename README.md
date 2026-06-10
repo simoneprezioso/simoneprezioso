@@ -1,35 +1,92 @@
-# Simone Prezioso
+<div align="center">
 
-- BSc Artificial Intelligence student focused on **Software Engineering** and **Machine Learning**
-- Currently working with Python, building small to medium-sized projects. My GitHub reflects my hands-on experimentation through notebooks and scripts of my university experience, most of 
-my repos are infact class projects, with many more to come
-- I like clarity, reliability, and writing code that explains itself
-- ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=flat)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Simone+Prezioso;BSc+Artificial+Intelligence+Student;Python+%C2%B7+Machine+Learning;Building+code+that+explains+itself" alt="Typing SVG" />
 
+</div>
 
-## What you'll find here:
-- University and challenge-based technical work
+## `~/about_me`
 
+```python
+class SimonePrezioso:
+    def __init__(self):
+        self.location = "Rome, Italy 📍"
+        self.studying = "BSc Artificial Intelligence @ LUISS Guido Carli"
+        self.focus = ["Software Engineering", "Machine Learning"]
+        self.current_stack = ["Python", "Jupyter", "Streamlit"]
+        self.values = ["clarity", "reliability", "self-explaining code"]
 
-## Info
-📍 Rome, Italy  
-🔗 LinkedIn: https://www.linkedin.com/in/simoneprezioso
+    def whats_here(self):
+        return "University & challenge-based technical work — notebooks, scripts, experiments"
+```
 
+## `~/stack`
 
-<!--
-**simoneprezioso/simoneprezioso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,git,github,vscode,anaconda,md&theme=dark" alt="Tech stack" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## `~/stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=simoneprezioso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneprezioso&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=simoneprezioso&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simoneprezioso&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Contribution graph" />
+
+</div>
+
+## `~/snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simoneprezioso/simoneprezioso/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simoneprezioso/simoneprezioso/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/simoneprezioso/simoneprezioso/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+## `~/recent_activity`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## `~/projects`
+
+<div align="center">
+
+<a href="https://github.com/simoneprezioso/Black-Scholes-Heatmap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=Black-Scholes-Heatmap&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Black-Scholes-Heatmap" />
+</a>
+<a href="https://github.com/simoneprezioso/PatternMind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=PatternMind&theme=tokyonight&hide_border=true&bg_color=00000000" alt="PatternMind" />
+</a>
+
+<a href="https://github.com/simoneprezioso/Talend2Mule">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=Talend2Mule&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Talend2Mule" />
+</a>
+<a href="https://github.com/simoneprezioso/FriendsSocialNetwork">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FriendsSocialNetwork&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FriendsSocialNetwork" />
+</a>
+
+</div>
+
+## `~/contact`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/simoneprezioso">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=simoneprezioso&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
