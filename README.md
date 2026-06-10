@@ -67,24 +67,24 @@ class SimonePrezioso:
   <tr>
     <td>
       <a href="https://github.com/simoneprezioso/FundingCompass">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FundingCompass&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FundingCompass" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FundingCompass&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=1" alt="FundingCompass" />
       </a>
     </td>
     <td>
       <a href="https://github.com/simoneprezioso/Black-Scholes-Heatmap">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=Black-Scholes-Heatmap&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Black-Scholes-Heatmap" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=Black-Scholes-Heatmap&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=1" alt="Black-Scholes-Heatmap" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/simoneprezioso/GitHub-Claw">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=GitHub-Claw&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub-Claw" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=GitHub-Claw&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=1" alt="GitHub-Claw" />
       </a>
     </td>
     <td>
       <a href="https://github.com/simoneprezioso/FriendsSocialNetwork">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FriendsSocialNetwork&theme=tokyonight&hide_border=true&bg_color=00000000" alt="FriendsSocialNetwork" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=simoneprezioso&repo=FriendsSocialNetwork&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=1" alt="FriendsSocialNetwork" />
       </a>
     </td>
   </tr>
