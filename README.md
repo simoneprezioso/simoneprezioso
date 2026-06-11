@@ -24,7 +24,7 @@ class SimonePrezioso:
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,git,github,vscode,anaconda,md&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,react,sklearn,tensorflow,github,git,gitlab,vim,linux,redis,npm,docker,kubernetes&theme=dark" alt="Tech stack" />
 </a>
 
 </div>
