@@ -1,2 +1,1 @@
-BSc AI @ LUISS Guido Carli
-SWE @ Accenture 
+BSc AI @ LUISS Guido Carli | SWE @ Accenture 
